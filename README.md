@@ -12,7 +12,7 @@ instance class SearchHelper() dan call method search_title(), kemudian buat inst
 ViewBook dengan parameter books dari search_title() dan panggil method list()
 
 ### Inputnya
-![input](https://github.com/ryumazu/uas20/blob/master/Screenshot/code2.JPG)
+![input](https://github.com/arial17/UAS20/blob/master/Screenshot/code2.JPG)
 
 ### Outputnya
-![output](https://github.com/ryumazu/uas20/blob/master/Screenshot/code1.JPG)# UAS20
+![output](https://github.com/arial17/UAS20/blob/master/Screenshot/code1.JPG)# UAS20
